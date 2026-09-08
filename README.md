@@ -4,7 +4,7 @@ An end-to-end SQL analytics project exploring the [TMDB 5000 Movie Dataset](http
 
 [**View the live dashboard on Tableau Public →**](https://public.tableau.com/views/MovieIndustryAnalysis_17888479348870/MovieIndustryAnalysisGenreROIDirectorPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-<img src="exports/dashboard_screenshot.png" width="800">
+<img src="exports/movie_analysis_dashboard.png" width="800">
 
 ---
 
