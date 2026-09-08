@@ -1,0 +1,58 @@
+genre_name,title,revenue,rank
+Action,Avatar,2787965087,1
+Action,The Avengers,1519557910,2
+Action,Jurassic World,1513528810,3
+Adventure,Avatar,2787965087,1
+Adventure,The Avengers,1519557910,2
+Adventure,Jurassic World,1513528810,3
+Animation,Frozen,1274219009,1
+Animation,Minions,1156730962,2
+Animation,Toy Story 3,1066969703,3
+Comedy,Minions,1156730962,1
+Comedy,Toy Story 3,1066969703,2
+Comedy,Despicable Me 2,970761885,3
+Crime,The Dark Knight Rises,1084939099,1
+Crime,The Dark Knight,1004558444,2
+Crime,Spectre,880674609,3
+Documentary,La Marche de l'empereur,127392239,1
+Documentary,Fahrenheit 9/11,119114517,2
+Documentary,Jackass 3D,117224271,3
+Drama,Titanic,1845034188,1
+Drama,The Dark Knight Rises,1084939099,2
+Drama,The Dark Knight,1004558444,3
+Family,Frozen,1274219009,1
+Family,Minions,1156730962,2
+Family,Toy Story 3,1066969703,3
+Fantasy,Avatar,2787965087,1
+Fantasy,The Lord of the Rings: The Return of the King,1118888979,2
+Fantasy,Pirates of the Caribbean: Dead Man's Chest,1065659812,3
+Foreign,Water,10422387,1
+Foreign,Roadside Romeo,1100000,2
+Foreign,Fiza,623791,3
+History,Saving Private Ryan,481840909,1
+History,The Last Samurai,456758981,2
+History,Pearl Harbor,449220945,3
+Horror,I Am Legend,585349010,1
+Horror,World War Z,531865000,2
+Horror,Jaws,470654000,3
+Music,Alvin and the Chipmunks: The Squeakquel,443140005,1
+Music,Les Misérables,441809770,2
+Music,The Bodyguard,411006740,3
+Mystery,Harry Potter and the Order of the Phoenix,938212738,1
+Mystery,Inception,825532764,2
+Mystery,The Da Vinci Code,767820459,3
+Romance,Titanic,1845034188,1
+Romance,The Twilight Saga: Breaking Dawn - Part 2,829000000,2
+Romance,Maleficent,758539785,3
+Science Fiction,Avatar,2787965087,1
+Science Fiction,The Avengers,1519557910,2
+Science Fiction,Jurassic World,1513528810,3
+Thriller,Titanic,1845034188,1
+Thriller,Jurassic World,1513528810,2
+Thriller,Skyfall,1108561013,3
+War,American Sniper,542307423,1
+War,Troy,497409852,2
+War,Saving Private Ryan,481840909,3
+Western,The Revenant,532950503,1
+Western,Django Unchained,425368238,2
+Western,Dances with Wolves,424208848,3
